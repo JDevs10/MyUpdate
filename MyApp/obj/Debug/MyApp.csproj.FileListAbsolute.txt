@@ -1,0 +1,12 @@
+C:\WorkPlace\MyUpdate\MyApp\bin\Debug\MyApp.exe.config
+C:\WorkPlace\MyUpdate\MyApp\bin\Debug\MyApp.exe
+C:\WorkPlace\MyUpdate\MyApp\bin\Debug\MyApp.pdb
+C:\WorkPlace\MyUpdate\MyApp\bin\Debug\MyUpdate.dll
+C:\WorkPlace\MyUpdate\MyApp\bin\Debug\MyUpdate.pdb
+C:\WorkPlace\MyUpdate\MyApp\obj\Debug\MyApp.csprojAssemblyReference.cache
+C:\WorkPlace\MyUpdate\MyApp\obj\Debug\MyApp.Form1.resources
+C:\WorkPlace\MyUpdate\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\WorkPlace\MyUpdate\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+C:\WorkPlace\MyUpdate\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+C:\WorkPlace\MyUpdate\MyApp\obj\Debug\MyApp.exe
+C:\WorkPlace\MyUpdate\MyApp\obj\Debug\MyApp.pdb

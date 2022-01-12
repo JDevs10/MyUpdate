@@ -1,0 +1,14 @@
+C:\WorkPlace\MyUpdate\MyApp\bin\Release\MyApp.exe.config
+C:\WorkPlace\MyUpdate\MyApp\bin\Release\MyApp.exe
+C:\WorkPlace\MyUpdate\MyApp\bin\Release\MyApp.pdb
+C:\WorkPlace\MyUpdate\MyApp\bin\Release\MyUpdate.dll
+C:\WorkPlace\MyUpdate\MyApp\bin\Release\MyUpdate.pdb
+C:\WorkPlace\MyUpdate\MyApp\obj\Release\MyApp.csprojAssemblyReference.cache
+C:\WorkPlace\MyUpdate\MyApp\obj\Release\MyApp.Form1.resources
+C:\WorkPlace\MyUpdate\MyApp\obj\Release\MyApp.Properties.Resources.resources
+C:\WorkPlace\MyUpdate\MyApp\obj\Release\MyApp.csproj.GenerateResource.cache
+C:\WorkPlace\MyUpdate\MyApp\obj\Release\MyApp.csproj.CopyComplete
+C:\WorkPlace\MyUpdate\MyApp\obj\Release\MyApp.exe
+C:\WorkPlace\MyUpdate\MyApp\obj\Release\MyApp.pdb
+C:\WorkPlace\MyUpdate\MyApp\bin\Release\Newtonsoft.Json.dll
+C:\WorkPlace\MyUpdate\MyApp\bin\Release\Newtonsoft.Json.xml

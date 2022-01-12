@@ -1,0 +1,13 @@
+C:\WorkPlace\MyUpdate\MyUpdate\bin\Release\MyUpdate.dll
+C:\WorkPlace\MyUpdate\MyUpdate\bin\Release\MyUpdate.pdb
+C:\WorkPlace\MyUpdate\MyUpdate\obj\Release\MyUpdate.dll
+C:\WorkPlace\MyUpdate\MyUpdate\obj\Release\MyUpdate.pdb
+C:\WorkPlace\MyUpdate\MyUpdate\obj\Release\MyUpdate.MyUpdateAcceptForm.resources
+C:\WorkPlace\MyUpdate\MyUpdate\obj\Release\MyUpdate.MyUpdateDownloadForm.resources
+C:\WorkPlace\MyUpdate\MyUpdate\obj\Release\MyUpdate.MyUpdateInfoForm.resources
+C:\WorkPlace\MyUpdate\MyUpdate\obj\Release\MyUpdate.Properties.Resources.resources
+C:\WorkPlace\MyUpdate\MyUpdate\obj\Release\MyUpdate.csproj.GenerateResource.cache
+C:\WorkPlace\MyUpdate\MyUpdate\bin\Release\Newtonsoft.Json.dll
+C:\WorkPlace\MyUpdate\MyUpdate\bin\Release\Newtonsoft.Json.xml
+C:\WorkPlace\MyUpdate\MyUpdate\obj\Release\MyUpdate.csproj.CopyComplete
+C:\WorkPlace\MyUpdate\MyUpdate\obj\Release\MyUpdate.csprojAssemblyReference.cache

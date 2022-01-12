@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<MyUpdate>
+	<update appId="MyApp">
+		<version>2.0.0.0</version>
+		<url>https://hello.world/app/update/update.zip</url>
+		<fileName>update.zip</fileName>
+		<md5>0B109C95A339DA3A93BA6BF532F69530</md5>
+		<description>Initial update</description>
+		<launchArgs>newVersion-2.0.0.0</launchArgs>
+	</update>
+</MyUpdate>

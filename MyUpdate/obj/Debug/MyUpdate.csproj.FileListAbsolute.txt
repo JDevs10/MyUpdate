@@ -1,0 +1,5 @@
+C:\WorkPlace\MyUpdate\MyUpdate\bin\Debug\MyUpdate.dll
+C:\WorkPlace\MyUpdate\MyUpdate\bin\Debug\MyUpdate.pdb
+C:\WorkPlace\MyUpdate\MyUpdate\obj\Debug\MyUpdate.csprojAssemblyReference.cache
+C:\WorkPlace\MyUpdate\MyUpdate\obj\Debug\MyUpdate.dll
+C:\WorkPlace\MyUpdate\MyUpdate\obj\Debug\MyUpdate.pdb

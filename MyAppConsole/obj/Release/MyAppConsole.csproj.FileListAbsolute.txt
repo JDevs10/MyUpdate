@@ -1,0 +1,11 @@
+C:\WorkPlace\MyUpdate\MyAppConsole\obj\Release\MyAppConsole.csprojAssemblyReference.cache
+C:\WorkPlace\MyUpdate\MyAppConsole\bin\Release\MyAppConsole.exe.config
+C:\WorkPlace\MyUpdate\MyAppConsole\bin\Release\MyAppConsole.exe
+C:\WorkPlace\MyUpdate\MyAppConsole\bin\Release\MyAppConsole.pdb
+C:\WorkPlace\MyUpdate\MyAppConsole\bin\Release\MyUpdate.dll
+C:\WorkPlace\MyUpdate\MyAppConsole\bin\Release\Newtonsoft.Json.dll
+C:\WorkPlace\MyUpdate\MyAppConsole\bin\Release\MyUpdate.pdb
+C:\WorkPlace\MyUpdate\MyAppConsole\bin\Release\Newtonsoft.Json.xml
+C:\WorkPlace\MyUpdate\MyAppConsole\obj\Release\MyAppConsole.csproj.CopyComplete
+C:\WorkPlace\MyUpdate\MyAppConsole\obj\Release\MyAppConsole.exe
+C:\WorkPlace\MyUpdate\MyAppConsole\obj\Release\MyAppConsole.pdb

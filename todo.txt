@@ -1,0 +1,7 @@
+
+ -need to download a zip file from server
+ -desactive current planificateur de tache / crontab
+ -stop / await program process
+ -when app process is stopped/finished, then unzip the file at local location
+ -when unzip is done and files are replaced, activate planificateur de tache / crontab
+ -run app process
